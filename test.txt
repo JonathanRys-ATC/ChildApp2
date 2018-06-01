@@ -1,6 +1,6 @@
 CustomApps
-  ATComponents
-  ReferenceDataCentral
+  Components
+  ReferenceData
 
 
 Orphans
